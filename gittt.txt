@@ -1,0 +1,10 @@
+﻿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
+git remote add origin https://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@github.com/Rizkymsayaf/php.git
+
+
+git remote add origin https://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@github.com/Rizkymsayaf/latihan-git.git
+
+
+
+
+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
